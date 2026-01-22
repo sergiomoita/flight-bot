@@ -48,14 +48,20 @@ TELEGRAM_CHAT_ID
 ### 4️⃣ Run manually
 python rss_flight_alert_bot.py
 
+---
+
 ## 🖥️ Run in Background (Windows)
 
 The bot can be configured to run automatically using Windows Task Scheduler, allowing it to operate silently in the background.
+
+---
 
 ## 🔒 Security
 
 This repository does not contain any API keys, tokens, or sensitive data.
 All local state and secrets are excluded via .gitignore.
+
+---
 
 ## 📌 Notes
 
@@ -64,6 +70,8 @@ The bot sends one message per day (digest format)
 Flight deals depend on the availability and content of RSS feeds
 
 Intended for personal and educational use
+
+---
 
 ## 📄 License
 
