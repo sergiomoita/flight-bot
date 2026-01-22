@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env / secrets
+.env
+*.bat
+
+# Logs
+*.log
+
+# Local DB/state
+*.db
+
+# OS
+Thumbs.db
+.DS_Store
